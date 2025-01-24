@@ -1,18 +1,10 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
-# server process.
-
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Yuyang Hu's Site"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Yuyang Hu"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://coutHelloworldendl/coutHelloworldendl.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -23,12 +15,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him" 
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "China"
+  employer         : "Peking University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "2200013065@stu.pku.edu.cn"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
